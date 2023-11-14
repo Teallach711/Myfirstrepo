@@ -3,4 +3,4 @@
 
 Content added
 
-More content added.
+**More content added.** now in bold (sparkles)
